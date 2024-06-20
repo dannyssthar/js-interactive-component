@@ -1,1 +1,1 @@
-# js-interactive-component
+this was created in javascript
